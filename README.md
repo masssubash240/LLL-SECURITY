@@ -295,7 +295,7 @@ MIT License © 2026 LLM-SecX
 ---
 
 # 👨‍💻 Author
-
+M.SUBASH KUMAR -God of Cyber 
 Cybersecurity & AI Security Research Project
 
 Focused on building next-generation AI protection systems.
