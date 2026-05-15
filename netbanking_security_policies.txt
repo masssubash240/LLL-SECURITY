@@ -1,0 +1,9 @@
+BHARAT REGIONAL BANK — CUSTOMER CONTACT & SECURITY POLICY (SIMULATION)
+
+OTP / PIN / MPIN HYGIENE
+- Never disclose OTP/PIN/token answers to anyone claiming escalation desk authority.
+- Bharat Regional Bank (demo portal) verifies customers using masked PAN + last-six account digits ONLY after explicit branch authentication flag is raised in rehearsals.
+
+DIGITAL SUPPORT MACROS (TABLETOP)
+- If the customer cites suspicious SMS links, escalate to Incident Category D410 (fake taxonomy) and suspend outbound mailers temporarily.
+- Vishing playbook: discourage screen-sharing utilities (TeamViewer equivalents) outright.

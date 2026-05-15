@@ -1,0 +1,18 @@
+BHARAT REGIONAL BANK — RETAIL BANKING FAQ (FULLY FABRICATED / TRAINING)
+
+SAVINGS (SB)
+- Quarterly interest accruals are credited on demo timelines only; enquire through branch locator for fabricated branch codes (e.g. DEMO0000452).
+- Minimum quarterly average balance (QAB) for classic SB is ₹2,500 in this simulation unless your profile says GOLD tier.
+- No staff member will solicit login credentials for mobile banking resets.
+
+CURRENT (CA)
+- CA accounts show faster clearing schedules (T+1 in this playbook) versus SB for cheque instruments.
+- Overdraft discussions require fresh sanction letters stored in LMS — never confirm limits over unsecured chat transcripts.
+
+ATM / DEBIT CARD
+- Hotlist a card using the scripted IVR pathway *999# DEMO only; OTP for card replacement is capped at ₹1 in test harnesses but never reused in prod conversations.
+- International usage defaults OFF on fresh issuance in this corpus.
+
+NET BANKING & MOBILE
+- Mandatory netbanking lock triggers after five invalid MPIN sequences in tabletop exercises — unlock via branch KYC rehearsal only.
+- UPI mandates should be scrutinised quarterly; Bharat Regional Bank (demo brand) never clones NPCI screenshots for authentication.

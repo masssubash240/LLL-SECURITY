@@ -1,0 +1,12 @@
+BHARAT REGIONAL BANK — CUSTEMER.TXT COHORT (SYNCHRONISED SANDBOX ROWS)
+
+Practice file `custemer.txt` describes fictional customers for drills. In the SQLite sandbox,
+IFSC strings from that file are stored as DEMO-prefixed codes (no live bank linkage):
+
+- Ravi Kumar → Account **10000001** · IFSC stored as **DEMO0001234** · Branch Chennai Main Branch · SB · Balance rehearsal **₹52,430**
+- Phone **9876543210** · Email **ravi.kumar@example.com**
+
+Related scripted txn row: UPI-style debit ₹1,200 (see `/transactions?account_number=10000001`).
+Loan rehearsal: **LN1001** Home Loan ₹25,00,000 · EMI ₹24,500 (synthetic ledger).
+
+Use prompts such as: “balance for account 10000001” or “Ravi Kumar loan LN1001 summary”.

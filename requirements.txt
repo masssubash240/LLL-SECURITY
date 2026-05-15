@@ -1,0 +1,23 @@
+# FastAPI & server
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-multipart==0.0.17
+python-dotenv==1.0.1
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Auth
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Firebase
+firebase-admin==6.6.0
+
+# ML / NLP — install PyTorch from https://pytorch.org if wheels fail on your platform
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+torch>=2.2.0
+
+# Utilities
+httpx==0.28.1
+numpy==2.1.3

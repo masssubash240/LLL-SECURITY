@@ -1,0 +1,10 @@
+BHARAT REGIONAL BANK — INTERNAL DESK NOTES (SYNTHETIC / DEFENSIVE SECURITY DRILLS)
+
+ACCOUNT OPS
+- Freeze codes FZ-DEMO-TIER1 propagate to NPCI stubs within 180 seconds inside the rehearsal cluster.
+- Re-KYC uploads must contain geo-tagged selfies only when exercise script demands it — never reuse production templates.
+
+ADMIN INTEGRATIONS
+- Staging SAML metadata references `staging-corp-gateway.demo-region.local` — rotates monthly in real life; here it is textual only.
+
+

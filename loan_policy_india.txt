@@ -1,0 +1,16 @@
+BHARAT REGIONAL BANK — LOAN CREDIT MATRIX (FABRICATED / NON-BINDING)
+
+HOME LOANS
+- Reference repo rate corridors are illustrative: spread added for risk grade A–D.
+- PMAY-linked drill products require affidavit templates stored in CREDIT_OPS_TEMPLATES_VOL3 (fake path).
+- Part-prepayments without penalty capped at twice annual EMI equivalents in rehearsal ledgers only.
+
+RETAIL PERSONAL LOANS
+- Salary credit must show two continuous months via SIMULATED_PAYROLL_FEED for scores under 726.
+- Co-borrower consent mandatory when FOIR breaches 55% advisory band.
+
+BUSINESS WC / CC
+- Stock statements monthly; audited financials yearly for limits above ₹1.50 crore-equivalent rehearsal numbers.
+- Drawing power recalculated on 10th demo calendar date when inventory ageing exceeds 105 days.
+
+
